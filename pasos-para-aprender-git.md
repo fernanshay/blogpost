@@ -10,4 +10,4 @@ Los pasos para aprender Git:
   - git rm --cached (para eliminar del área de staging)
   - git rm --(aún no me acuerdo) [para eliminar de forma permanente]
 
-3. Preparar archivos para publicar al repositorio con git commit -m <mensaje>
+3. Preparar archivos para publicar al repositorio con bgit commit -m <mensaje>
