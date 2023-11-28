@@ -8,6 +8,6 @@ Los pasos para aprender Git:
 
 - Si deseas eliminar archivos del staging (area de carga para commit):
   - git rm --cached (para eliminar del área de staging)
-  - git rm --(aún no me acuerdo) [para eliminar de forma permanente]
+  - git rm --forced (para eliminar de forma permanente)
 
 3. Preparar archivos para publicar al repositorio con bgit commit -m <mensaje>
