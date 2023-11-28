@@ -7,11 +7,19 @@ body {
 #container {
     width: 75%;
     padding: 1%;
-    border: 2px solid #4e8956;
+    border: 3px solid #4e8956;
     display: flex;
     align-items: center;
 }
 
+#cabecera {
+    background: cornflowerblue;
+    color: aliceblue;
+    margin: 1%;
+    padding: 1%;
+    font-size: 30px;
+}
+
 #post {
-font-size: 20px;
+font-size: 18px;
 }
