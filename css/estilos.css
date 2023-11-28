@@ -3,3 +3,15 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: darkslategray;
 }
+
+#container {
+    width: 75%;
+    padding: 1%;
+    border: 2px solid #4e8956;
+    display: flex;
+    align-items: center;
+}
+
+#post {
+font-size: 20px;
+}
