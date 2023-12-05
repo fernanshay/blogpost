@@ -40,3 +40,11 @@ color: #173838;
 p {
     margin-top: 20px;
 }
+
+#footer {
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-size: 16px;
+    padding: 10px;
+    background-color: #5C8374;
+}
